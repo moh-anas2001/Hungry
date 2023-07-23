@@ -1,5 +1,5 @@
 # Hungry
 
-### Built using Java Swing and MySql
+### Built using Java Swing and MySQL
 
 ##### Apache Netbeans IDE 17
